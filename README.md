@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josediago-dev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs and the rich ecosystem that is surrounding it
+- 🌱 I’m currently a Full Stack Web Developer working on enterprise projects
 
 <!---
 josediago-dev/josediago-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
